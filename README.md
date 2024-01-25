@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murad</h1>
-<h3 align="center">I am studen from BANGLADESH.</h3>
+<h3 align="center">I am student from BANGLADESH.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dream-hunter-223508&label=Profile%20views&color=0e75b6&style=flat" alt="dream-hunter-223508" /> </p>
 
